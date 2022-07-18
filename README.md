@@ -9,6 +9,13 @@ In Tic Tac Toe free app you can play against AI or against your friends. One pla
 
 # To-Do
 1- The user will decides to play with an Ai or with a friend.
+
+
+
 2- Then  decides to choose X or O.
+
+
+
+
 3- Then they can start playing.
 
