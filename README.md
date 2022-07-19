@@ -1,3 +1,4 @@
+
 # tic_toc_game
 
 A new Flutter project.
@@ -14,6 +15,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+# About
+In Tic Tac Toe free app you can play against AI or against your friends. One player plays X and the other O, taking turns marking the spaces in a 3×3 grid. The one who succeeds in placing three respective marks in a horizontal, vertical, or diagonal row wins the game.
 
 
 
