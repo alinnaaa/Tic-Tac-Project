@@ -32,5 +32,5 @@ In Tic Tac Toe free app you can play against AI or against your friends. One pla
 
 
 # ToD0 :
-- [] ahahahhaha
-- [] ahahahahahhahah
+-  ahahahhaha
+-  ahahahahahhahah
